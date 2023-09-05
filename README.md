@@ -1,9 +1,9 @@
-Build an Express server which responds to requests per the following API documentation:
+### Build an Express server which responds to requests per the following API documentation:
 
 # Emoji Server API Documentation
 
 ```js
-const API = "https://emoji-server.onrender.com";
+const API = "https://emoji-server-giang.onrender.com/";
 ```
 
 ## GET /emojis
